@@ -4,3 +4,47 @@ En este repositorio se encuentran listados los icons e ilustraciones que utiliza
 
 * Ruta: [https://ciromirkin.github.io/memotest_API/icons.txt](https://ciromirkin.github.io/memotest_API/icons.txt)
 
+## Estructura
+
+```
+[
+	{
+		"iconsName": "",
+		"iconsImage": "",
+		"icons": [
+		  {
+			"pairID": "1",
+			"src": ""
+			},
+		  {
+			"pairID": "2",
+			"src": ""
+			},
+		  {
+			"pairID": "3",
+			"src": ""
+			},
+		  {
+			"pairID": "4",
+			"src": ""
+			},
+		  {
+			"pairID": "5",
+			"src": ""
+			},
+		  {
+			"pairID": "6",
+			"src": ""
+			},
+		  {
+			"pairID": "7",
+			"src": ""
+			},
+		  {
+			"pairID": "8",
+			"src": ""
+			}
+		]
+	}
+]
+```
